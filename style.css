@@ -1,0 +1,26 @@
+.header{
+    background-color: black;
+    text-align: center;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.site_title{
+    color: white;
+}
+
+.site_title:visited{
+    color: white;
+}
+
+.site_title:hover{
+    opacity: 0.8;
+}
+
+.content{
+    text-align: center;
+}

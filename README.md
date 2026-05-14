@@ -72,4 +72,4 @@ python -m http.server 8000
 ## Configuration
 No special environment variables or configuration files are required. Edit `index.html`, `style.css`, and `script.js` to customize.
 ## License
-This repository is released under the Unlicense; see the `LICENCE` file for details.
+Unlicense license
